@@ -84,6 +84,12 @@ Output:
 
 ---
 
+## How to Use
+
+Go to [https://github.com/BlueMackerel/S] to View or Download the Script,
+or Go to [https://github.com/BlueMackerel/S/tree/master/Setup] to Set up the Interpreter.
+
+
 ## 🚀 Future Developments
 - ⚡ **Support for More Built-in Functions**
 - 💡 **File Input/Output Capabilities**
