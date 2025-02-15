@@ -263,6 +263,7 @@
   ('stringprep',
    'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\stringprep.py',
    'PYMODULE'),
+  ('strings_with_arrows', 'C:\\S\\Soft\\strings_with_arrows.py', 'PYMODULE'),
   ('subprocess',
    'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\subprocess.py',
    'PYMODULE'),
