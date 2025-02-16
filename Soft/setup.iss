@@ -45,7 +45,7 @@ Source: "C:\S\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createal
 
 [Registry]
 Root: HKLM; Subkey: "SYSTEM\CurrentControlSet\Control\Session Manager\Environment"; \
-    ValueType: string; ValueName: "SPATH"; ValueData: "{app}"; Flags: preservestringtype
+    ValueType: string; ValueName: "SPATH"; ValueData: "{app}/Lib"; Flags: preservestringtype
 Root: HKLM; Subkey: "SYSTEM\CurrentControlSet\Control\Session Manager\Environment"; \
     ValueType: expandsz; ValueName: "Path"; ValueData: "{olddata};%SPATH%"; Flags: preservestringtype
 Root: HKCU; Subkey: "Software\Classes\{#MyAppAssocExt}\OpenWithProgids"; ValueType: string; ValueName: "{#MyAppAssocKey}"; ValueData: ""; Flags: uninsdeletevalue

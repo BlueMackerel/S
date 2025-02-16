@@ -2,8 +2,6 @@ from __init__ import *
 from Lexer import *
 from Parser import *
 from Interpreter import *
-from S import *
-
 def run(fn, text):
   # Generate tokens
   lexer = Lexer(fn, text)
