@@ -1,2 +1,4 @@
-FUN add(a,b) -> a+b\n
-PRINT(add(1,2))
+FUN A(a,b) -> a+b
+
+PRINT("Hello World!")
+PRINT(A(1,2))
